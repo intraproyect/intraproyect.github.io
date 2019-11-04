@@ -60,13 +60,13 @@
 
 }
 
-@media (min-width:420px){
+@media (max-width:420px){
 .contenedor{
-	font-size: 1.8em;
+	font-size: 1.3em;
 
 }
 	#img-h{
-		height: 37px;
+		height: 37px!important;
 	}	
 
 
